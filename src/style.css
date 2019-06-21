@@ -1,0 +1,14 @@
+html,
+body,
+#root,
+.container-fluid {
+  height: 100%;
+}
+
+body {
+  padding: 30px;
+}
+
+label {
+  margin-bottom: 0;
+}
